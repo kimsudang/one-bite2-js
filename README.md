@@ -5,3 +5,5 @@
 [인프런 강의 보러가기](https://www.inflearn.com/course/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95%EB%B6%80%ED%84%B0-spa%EA%B0%9C%EB%B0%9C%EA%B9%8C%EC%A7%80/dashboard)
 <br />
 [챌린지 과제 보러가기](https://github.com/hbin12212/one-bite2.git)
+<br />
+(내가 보려고 남기는) [강의 교안 바로가기](https://one-go-js.hyobb.com/)
